@@ -2,7 +2,7 @@
 ![avatar](https://upload.wikimedia.org/wikipedia/ru/c/ce/Aang.png "its me")
 
 
-*What Is Dead May Never Die*
+*What Is Dead May Never Die - But rises again harder and stronger* Theon Greyjoy 
 
 ## CONTACT
 *email: akhilovtima@gmail.com, tel.: 8(777)677-46-66*
@@ -19,8 +19,8 @@ Seeking exciting and educational opportynities for organizations to grow as a pr
 * React/Vue
 
 ## PROJECTS
-[GitHub][1] GitHub
-[CodeWars][2] CodeWars
+GitHub[GitHub][1]
+CodeWars[CodeWars][2]
 
 
 [1][https://TimokhaVnature.github.io/rsschool-cv/cv] 
