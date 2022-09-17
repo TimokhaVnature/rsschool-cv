@@ -19,7 +19,5 @@ Seeking exciting and educational opportynities for organizations to grow as a pr
 * React/Vue
 
 ## PROJECTS
-*https://TimokhaVnature.github.io/rsschool-cv/cv*
-
-
-*https://www.codewars.com/users/TimokhaVnature/badges/large*
+[1]: https://TimokhaVnature.github.io/rsschool-cv/cv    'GitHub'
+[2]: https://www.codewars.com/users/TimokhaVnature/badges/large    'CodeWars'
