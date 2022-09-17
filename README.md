@@ -1,2 +1,1 @@
-# rsschool-cv
-first cv task
+# https://github.com/TimokhaVnature/rsschool-cv.git
