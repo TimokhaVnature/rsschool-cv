@@ -19,8 +19,8 @@ Seeking exciting and educational opportynities for organizations to grow as a pr
 * React/Vue
 
 ## PROJECTS
-[GitHub][1]
-[CodeWars][2]
+[GitHub][1] GitHub
+[CodeWars][2] CodeWars
 
 
 [1][https://TimokhaVnature.github.io/rsschool-cv/cv] 
