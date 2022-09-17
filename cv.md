@@ -1,5 +1,4 @@
 # Timur Akhilov
-***
 ![avatar](https://upload.wikimedia.org/wikipedia/ru/c/ce/Aang.png "its me")
 
 
@@ -21,4 +20,6 @@ Seeking exciting and educational opportynities for organizations to grow as a pr
 
 ## PROJECTS
 *https://TimokhaVnature.github.io/rsschool-cv/cv*
+
+
 *https://www.codewars.com/users/TimokhaVnature/badges/large*
